@@ -20,6 +20,6 @@ public class StaticNonStaticConcepts {
 	}
 	
 	public void nonstcMethod() {
-		System.out.println("This is non-staic method.");
+		System.out.println("This is non-static method.");
 	}
 }
